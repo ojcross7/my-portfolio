@@ -39,7 +39,7 @@ const Header = () => {
            className='max-w-2x1 max-auto font-Ovo'>
               As a highly motivated and results-driven professional with 3 years of experience, I excel in IT, Graphic Design, and Web Development.
            </motion.p>
-
+ 
         <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
             <motion.a 
             initial={{y: 30, opacity: 0}} 
