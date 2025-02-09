@@ -30,7 +30,7 @@ const Header = () => {
         whileInView={{y: 0, opacity: 1}} 
         transition={{duration: 0.8, delay: 0.5}}
         className='text-3x1 sm:text-6x1 lg:text-[50px] font-Ovo'> 
-          Graphic Designer, Web Developer, IT Infrustracture support specialist baseed in Ghana.</motion.h1>
+          Graphic Designer, Web Developer, IT Infrustracture support specialist based in Ghana.</motion.h1>
            
            <motion.p 
            initial={{opacity: 0}} 
